@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &9925647582577763
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 958490285352454337, guid: 381e7df986f5dbb45bd2602d13ac5f95, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.2068098
+      objectReference: {fileID: 0}
+    - target: {fileID: 958490285352454337, guid: 381e7df986f5dbb45bd2602d13ac5f95, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.6407014
+      objectReference: {fileID: 0}
+    - target: {fileID: 958490285352454337, guid: 381e7df986f5dbb45bd2602d13ac5f95, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.24136494
+      objectReference: {fileID: 0}
+    - target: {fileID: 958490285352454337, guid: 381e7df986f5dbb45bd2602d13ac5f95, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 958490285352454337, guid: 381e7df986f5dbb45bd2602d13ac5f95, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 958490285352454337, guid: 381e7df986f5dbb45bd2602d13ac5f95, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 958490285352454337, guid: 381e7df986f5dbb45bd2602d13ac5f95, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 958490285352454337, guid: 381e7df986f5dbb45bd2602d13ac5f95, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 958490285352454337, guid: 381e7df986f5dbb45bd2602d13ac5f95, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 958490285352454337, guid: 381e7df986f5dbb45bd2602d13ac5f95, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1058085875296038330, guid: 381e7df986f5dbb45bd2602d13ac5f95, type: 3}
+      propertyPath: m_SortingLayer
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1058085875296038330, guid: 381e7df986f5dbb45bd2602d13ac5f95, type: 3}
+      propertyPath: m_SortingLayerID
+      value: -1145055033
+      objectReference: {fileID: 0}
+    - target: {fileID: 2158531287069985774, guid: 381e7df986f5dbb45bd2602d13ac5f95, type: 3}
+      propertyPath: m_Name
+      value: Puca_Revizor1 (patrol)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8715042402164309520, guid: 381e7df986f5dbb45bd2602d13ac5f95, type: 3}
+      propertyPath: enemy
+      value: 
+      objectReference: {fileID: 8227168288241495791}
+    m_RemovedComponents:
+    - {fileID: 7933544058209124054, guid: 381e7df986f5dbb45bd2602d13ac5f95, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 381e7df986f5dbb45bd2602d13ac5f95, type: 3}
+--- !u!4 &8227168288241495791 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8218935888565856908, guid: 381e7df986f5dbb45bd2602d13ac5f95, type: 3}
+  m_PrefabInstance: {fileID: 9925647582577763}
+  m_PrefabAsset: {fileID: 0}

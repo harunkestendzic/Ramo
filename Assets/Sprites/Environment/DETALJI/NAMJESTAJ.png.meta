@@ -1,0 +1,2386 @@
+fileFormatVersion: 2
+guid: 40ad2bd321c6acc489ac89a4d129d1e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1649642178209959026
+    second: NAMJESTAJ_0
+  - first:
+      213: -6220517854168267365
+    second: NAMJESTAJ_1
+  - first:
+      213: 3678614309578844842
+    second: NAMJESTAJ_2
+  - first:
+      213: -7884705792449430853
+    second: NAMJESTAJ_3
+  - first:
+      213: 4025705769668189371
+    second: NAMJESTAJ_4
+  - first:
+      213: -3958824902780875490
+    second: NAMJESTAJ_5
+  - first:
+      213: -5881783962524165980
+    second: NAMJESTAJ_6
+  - first:
+      213: -1701190838370212083
+    second: NAMJESTAJ_7
+  - first:
+      213: 2839480216290262734
+    second: NAMJESTAJ_8
+  - first:
+      213: -5870785434958081664
+    second: NAMJESTAJ_9
+  - first:
+      213: 4431098202545477469
+    second: NAMJESTAJ_10
+  - first:
+      213: -6983694745850810475
+    second: NAMJESTAJ_11
+  - first:
+      213: -4332805598004860479
+    second: NAMJESTAJ_12
+  - first:
+      213: 8749122518889684439
+    second: NAMJESTAJ_13
+  - first:
+      213: 9120406322161683267
+    second: NAMJESTAJ_14
+  - first:
+      213: 4511214300010889874
+    second: NAMJESTAJ_15
+  - first:
+      213: 6091401834665501252
+    second: NAMJESTAJ_16
+  - first:
+      213: -641026853959119980
+    second: NAMJESTAJ_17
+  - first:
+      213: 2373267351703683907
+    second: NAMJESTAJ_18
+  - first:
+      213: 2980462358928893028
+    second: NAMJESTAJ_19
+  - first:
+      213: 5903699960883983151
+    second: NAMJESTAJ_20
+  - first:
+      213: 3040697087493811868
+    second: NAMJESTAJ_21
+  - first:
+      213: 7422489026012895900
+    second: NAMJESTAJ_22
+  - first:
+      213: 2427629895549090639
+    second: NAMJESTAJ_23
+  - first:
+      213: 123230757371229789
+    second: NAMJESTAJ_24
+  - first:
+      213: 6141918674196537282
+    second: NAMJESTAJ_25
+  - first:
+      213: -1096039757912015318
+    second: NAMJESTAJ_26
+  - first:
+      213: -7403329548030364897
+    second: NAMJESTAJ_27
+  - first:
+      213: -9193930973042409878
+    second: NAMJESTAJ_28
+  - first:
+      213: -8967181231826460682
+    second: NAMJESTAJ_29
+  - first:
+      213: -5671380634638652212
+    second: NAMJESTAJ_30
+  - first:
+      213: -187873059668936372
+    second: NAMJESTAJ_31
+  - first:
+      213: 3020991075900837280
+    second: NAMJESTAJ_32
+  - first:
+      213: -3134510164645452841
+    second: NAMJESTAJ_33
+  - first:
+      213: 849316608929753564
+    second: NAMJESTAJ_34
+  - first:
+      213: -2192563504946752524
+    second: NAMJESTAJ_35
+  - first:
+      213: 3391782245045278279
+    second: NAMJESTAJ_36
+  - first:
+      213: 8703866941936704784
+    second: NAMJESTAJ_37
+  - first:
+      213: 3881101937816345673
+    second: NAMJESTAJ_38
+  - first:
+      213: 7444718148473443044
+    second: NAMJESTAJ_39
+  - first:
+      213: 2101877801745577055
+    second: NAMJESTAJ_40
+  - first:
+      213: -2044003368750251564
+    second: NAMJESTAJ_41
+  - first:
+      213: 4505977416645898696
+    second: NAMJESTAJ_42
+  - first:
+      213: 3504560921002131919
+    second: NAMJESTAJ_43
+  - first:
+      213: 1670426270492667985
+    second: NAMJESTAJ_44
+  - first:
+      213: 4759613081991584339
+    second: NAMJESTAJ_45
+  - first:
+      213: -2068567509567834690
+    second: NAMJESTAJ_46
+  - first:
+      213: 7587194020878570907
+    second: NAMJESTAJ_47
+  - first:
+      213: 3635388736000763568
+    second: NAMJESTAJ_48
+  - first:
+      213: -7739478210808191902
+    second: NAMJESTAJ_49
+  - first:
+      213: -8279416184976140998
+    second: NAMJESTAJ_50
+  - first:
+      213: 2428526492924836562
+    second: NAMJESTAJ_51
+  - first:
+      213: -6209751454583216751
+    second: NAMJESTAJ_52
+  - first:
+      213: -4436649589903943110
+    second: NAMJESTAJ_53
+  - first:
+      213: 5985948774192562573
+    second: NAMJESTAJ_54
+  - first:
+      213: 5390919824612478425
+    second: NAMJESTAJ_55
+  - first:
+      213: -850308202658373583
+    second: NAMJESTAJ_56
+  - first:
+      213: 1450569357992256305
+    second: NAMJESTAJ_57
+  - first:
+      213: -5606573774363926325
+    second: NAMJESTAJ_58
+  - first:
+      213: -2065124864324858288
+    second: NAMJESTAJ_59
+  - first:
+      213: 2658373551841961224
+    second: NAMJESTAJ_60
+  - first:
+      213: 6205950639833129567
+    second: NAMJESTAJ_61
+  - first:
+      213: 1339154733225614270
+    second: NAMJESTAJ_62
+  - first:
+      213: -6055272082967634908
+    second: NAMJESTAJ_63
+  - first:
+      213: -3548344721819382671
+    second: NAMJESTAJ_64
+  - first:
+      213: 8008529312633418613
+    second: NAMJESTAJ_65
+  - first:
+      213: -361715533335046435
+    second: NAMJESTAJ_66
+  - first:
+      213: 8194738419842639231
+    second: NAMJESTAJ_67
+  - first:
+      213: -682776363630825251
+    second: NAMJESTAJ_68
+  - first:
+      213: 8923911627254306170
+    second: NAMJESTAJ_69
+  - first:
+      213: -8477241362535243559
+    second: NAMJESTAJ_70
+  - first:
+      213: -8255578630118937969
+    second: NAMJESTAJ_71
+  - first:
+      213: -3876125074130985964
+    second: NAMJESTAJ_72
+  - first:
+      213: -840316051866890350
+    second: NAMJESTAJ_73
+  - first:
+      213: -5864909596674563267
+    second: NAMJESTAJ_74
+  - first:
+      213: 396083625533775669
+    second: NAMJESTAJ_75
+  - first:
+      213: -3828668910884223443
+    second: NAMJESTAJ_76
+  - first:
+      213: 6158195769755278047
+    second: NAMJESTAJ_77
+  - first:
+      213: -4794601536361078029
+    second: NAMJESTAJ_78
+  - first:
+      213: 1114770422690135043
+    second: NAMJESTAJ_79
+  - first:
+      213: 1281521762500024484
+    second: NAMJESTAJ_80
+  - first:
+      213: -2741670927480382764
+    second: NAMJESTAJ_81
+  - first:
+      213: -6132544652640116063
+    second: NAMJESTAJ_82
+  - first:
+      213: 2055139736823144999
+    second: NAMJESTAJ_83
+  - first:
+      213: -8690314904448246030
+    second: NAMJESTAJ_84
+  - first:
+      213: 3619211657337315770
+    second: NAMJESTAJ_85
+  - first:
+      213: -5011424506366585068
+    second: NAMJESTAJ_86
+  - first:
+      213: 1604357488437694835
+    second: NAMJESTAJ_87
+  - first:
+      213: -8341178201747256555
+    second: NAMJESTAJ_88
+  - first:
+      213: 2899673554815872023
+    second: NAMJESTAJ_89
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NAMJESTAJ_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 3419
+        width: 1212
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e833b49dd2b4b19e0800000000000000
+      internalID: -1649642178209959026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_1
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 3689
+        width: 1162
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95435728f74ca9a0800000000000000
+      internalID: -6220517854168267365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_2
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 3349
+        width: 512
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaaad1479301d0330800000000000000
+      internalID: 3678614309578844842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_3
+      rect:
+        serializedVersion: 2
+        x: 3349
+        y: 3349
+        width: 562
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba36925bd5e39290800000000000000
+      internalID: -7884705792449430853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_4
+      rect:
+        serializedVersion: 2
+        x: 4059
+        y: 3349
+        width: 522
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc1053811e2ed730800000000000000
+      internalID: 4025705769668189371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_5
+      rect:
+        serializedVersion: 2
+        x: 4689
+        y: 3349
+        width: 272
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d86c5c9bd6f09c0800000000000000
+      internalID: -3958824902780875490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_6
+      rect:
+        serializedVersion: 2
+        x: 5039
+        y: 3549
+        width: 852
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8582c26a4bf5ea0800000000000000
+      internalID: -5881783962524165980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_7
+      rect:
+        serializedVersion: 2
+        x: 6069
+        y: 3489
+        width: 832
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d076bcf12f72468e0800000000000000
+      internalID: -1701190838370212083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_8
+      rect:
+        serializedVersion: 2
+        x: 6939
+        y: 3819
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecefab6663cd76720800000000000000
+      internalID: 2839480216290262734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_9
+      rect:
+        serializedVersion: 2
+        x: 7389
+        y: 3869
+        width: 1142
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08159cc60c7c68ea0800000000000000
+      internalID: -5870785434958081664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_10
+      rect:
+        serializedVersion: 2
+        x: 8639
+        y: 3949
+        width: 622
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d575897965c6e7d30800000000000000
+      internalID: 4431098202545477469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_11
+      rect:
+        serializedVersion: 2
+        x: 9349
+        y: 3869
+        width: 542
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59feccd31aee41f90800000000000000
+      internalID: -6983694745850810475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_12
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 2949
+        width: 1072
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9a81ac348ced3c0800000000000000
+      internalID: -4332805598004860479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_13
+      rect:
+        serializedVersion: 2
+        x: 4979
+        y: 2479
+        width: 692
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd5aca73902b6970800000000000000
+      internalID: 8749122518889684439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_14
+      rect:
+        serializedVersion: 2
+        x: 5739
+        y: 2789
+        width: 262
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b8caf5a31329e70800000000000000
+      internalID: 9120406322161683267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_15
+      rect:
+        serializedVersion: 2
+        x: 6089
+        y: 2859
+        width: 812
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292cfc1218d0b9e30800000000000000
+      internalID: 4511214300010889874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_16
+      rect:
+        serializedVersion: 2
+        x: 7099
+        y: 3079
+        width: 602
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442666be1b1098450800000000000000
+      internalID: 6091401834665501252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_17
+      rect:
+        serializedVersion: 2
+        x: 7789
+        y: 3239
+        width: 562
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bc74ef87d9a17f0800000000000000
+      internalID: -641026853959119980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_18
+      rect:
+        serializedVersion: 2
+        x: 8439
+        y: 3219
+        width: 402
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343845f051a8fe020800000000000000
+      internalID: 2373267351703683907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_19
+      rect:
+        serializedVersion: 2
+        x: 8929
+        y: 3129
+        width: 532
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464216a69babc5920800000000000000
+      internalID: 2980462358928893028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_20
+      rect:
+        serializedVersion: 2
+        x: 9579
+        y: 3369
+        width: 382
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f233af4d5d72ee150800000000000000
+      internalID: 5903699960883983151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_21
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2389
+        width: 1092
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e22a904e9b23a20800000000000000
+      internalID: 3040697087493811868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_22
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 2699
+        width: 1122
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9adbb0717af10760800000000000000
+      internalID: 7422489026012895900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_23
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 2879
+        width: 622
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b7252278ca0b120800000000000000
+      internalID: 2427629895549090639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_24
+      rect:
+        serializedVersion: 2
+        x: 4129
+        y: 2409
+        width: 762
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56b38e88bdc5b100800000000000000
+      internalID: 123230757371229789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_25
+      rect:
+        serializedVersion: 2
+        x: 6959
+        y: 2729
+        width: 472
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf92de2e7a7c3550800000000000000
+      internalID: 6141918674196537282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_26
+      rect:
+        serializedVersion: 2
+        x: 7539
+        y: 2729
+        width: 472
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ef2f1b5a51ac0f0800000000000000
+      internalID: -1096039757912015318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_27
+      rect:
+        serializedVersion: 2
+        x: 8079
+        y: 2769
+        width: 492
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f133f762007124990800000000000000
+      internalID: -7403329548030364897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_28
+      rect:
+        serializedVersion: 2
+        x: 8679
+        y: 2699
+        width: 472
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e7856dd78986080800000000000000
+      internalID: -9193930973042409878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_29
+      rect:
+        serializedVersion: 2
+        x: 9489
+        y: 2899
+        width: 492
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff1f680e2c2e8380800000000000000
+      internalID: -8967181231826460682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_30
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1499
+        width: 1162
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc655e6c553b41b0800000000000000
+      internalID: -5671380634638652212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_31
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 2349
+        width: 352
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c493197927a846df0800000000000000
+      internalID: -187873059668936372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_32
+      rect:
+        serializedVersion: 2
+        x: 3189
+        y: 2009
+        width: 1052
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adc1bca067bce920800000000000000
+      internalID: 3020991075900837280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_33
+      rect:
+        serializedVersion: 2
+        x: 4489
+        y: 2319
+        width: 262
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3e473dc9bff74d0800000000000000
+      internalID: -3134510164645452841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_34
+      rect:
+        serializedVersion: 2
+        x: 5739
+        y: 2119
+        width: 672
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9e819b4f069cb00800000000000000
+      internalID: 849316608929753564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_35
+      rect:
+        serializedVersion: 2
+        x: 6559
+        y: 2059
+        width: 1252
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3d924eb137291e0800000000000000
+      internalID: -2192563504946752524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_36
+      rect:
+        serializedVersion: 2
+        x: 8009
+        y: 2119
+        width: 582
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746966f3bf7021f20800000000000000
+      internalID: 3391782245045278279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_37
+      rect:
+        serializedVersion: 2
+        x: 8789
+        y: 2079
+        width: 522
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d176e5ed85ac870800000000000000
+      internalID: 8703866941936704784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_38
+      rect:
+        serializedVersion: 2
+        x: 9369
+        y: 2079
+        width: 502
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c9f9446a17cd530800000000000000
+      internalID: 3881101937816345673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_39
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1539
+        width: 1052
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2d9a456b3f05760800000000000000
+      internalID: 7444718148473443044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_40
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 2009
+        width: 672
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54f25679be5b2d10800000000000000
+      internalID: 2101877801745577055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_41
+      rect:
+        serializedVersion: 2
+        x: 4149
+        y: 1499
+        width: 602
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d180f504cd32a3e0800000000000000
+      internalID: -2044003368750251564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_42
+      rect:
+        serializedVersion: 2
+        x: 4839
+        y: 1449
+        width: 1082
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c17c153692788e30800000000000000
+      internalID: 4505977416645898696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_43
+      rect:
+        serializedVersion: 2
+        x: 5979
+        y: 1449
+        width: 722
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc14c06f693b2a030800000000000000
+      internalID: 3504560921002131919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_44
+      rect:
+        serializedVersion: 2
+        x: 6789
+        y: 1449
+        width: 962
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150323cb7db8e2710800000000000000
+      internalID: 1670426270492667985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_45
+      rect:
+        serializedVersion: 2
+        x: 7829
+        y: 1429
+        width: 1102
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a196c61ea8d0240800000000000000
+      internalID: 4759613081991584339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_46
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1209
+        width: 692
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb57b4e4fc8fa43e0800000000000000
+      internalID: -2068567509567834690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_47
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 1359
+        width: 492
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b955f6863c02b4960800000000000000
+      internalID: 7587194020878570907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_48
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 1319
+        width: 802
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b628c55bce737230800000000000000
+      internalID: 3635388736000763568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_49
+      rect:
+        serializedVersion: 2
+        x: 3589
+        y: 1499
+        width: 582
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264e6e1a299d79490800000000000000
+      internalID: -7739478210808191902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_50
+      rect:
+        serializedVersion: 2
+        x: 9019
+        y: 1429
+        width: 912
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3590e298da991d80800000000000000
+      internalID: -8279416184976140998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_51
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 689
+        width: 362
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2daf86a7afbd3b120800000000000000
+      internalID: 2428526492924836562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_52
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 689
+        width: 1292
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1952a16e3f782d9a0800000000000000
+      internalID: -6209751454583216751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_53
+      rect:
+        serializedVersion: 2
+        x: 2949
+        y: 669
+        width: 242
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a94e054badd62c0800000000000000
+      internalID: -4436649589903943110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_54
+      rect:
+        serializedVersion: 2
+        x: 3279
+        y: 779
+        width: 432
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81ce69f1bc521350800000000000000
+      internalID: 5985948774192562573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_55
+      rect:
+        serializedVersion: 2
+        x: 3729
+        y: 1209
+        width: 532
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd43a6a40560da40800000000000000
+      internalID: 5390919824612478425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_56
+      rect:
+        serializedVersion: 2
+        x: 5129
+        y: 719
+        width: 362
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13062fed1391334f0800000000000000
+      internalID: -850308202658373583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_57
+      rect:
+        serializedVersion: 2
+        x: 5599
+        y: 689
+        width: 402
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133e1394525712410800000000000000
+      internalID: 1450569357992256305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_58
+      rect:
+        serializedVersion: 2
+        x: 6119
+        y: 669
+        width: 442
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0640c6bd27132b0800000000000000
+      internalID: -5606573774363926325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_59
+      rect:
+        serializedVersion: 2
+        x: 6669
+        y: 669
+        width: 412
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e071d90e33753e0800000000000000
+      internalID: -2065124864324858288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_60
+      rect:
+        serializedVersion: 2
+        x: 7229
+        y: 689
+        width: 452
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80565d529a074e420800000000000000
+      internalID: 2658373551841961224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_61
+      rect:
+        serializedVersion: 2
+        x: 7829
+        y: 759
+        width: 432
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52acd4f937ff1650800000000000000
+      internalID: 6205950639833129567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_62
+      rect:
+        serializedVersion: 2
+        x: 8389
+        y: 739
+        width: 472
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb123d7222a59210800000000000000
+      internalID: 1339154733225614270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_63
+      rect:
+        serializedVersion: 2
+        x: 8969
+        y: 629
+        width: 402
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cdf5c6f1a57fba0800000000000000
+      internalID: -6055272082967634908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_64
+      rect:
+        serializedVersion: 2
+        x: 9489
+        y: 629
+        width: 422
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cc253864fb1cec0800000000000000
+      internalID: -3548344721819382671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_65
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 689
+        width: 242
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57371d49af2042f60800000000000000
+      internalID: 8008529312633418613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_66
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 689
+        width: 242
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6d2dd83adeafaf0800000000000000
+      internalID: -361715533335046435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_67
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 689
+        width: 272
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7567fddc2f89b170800000000000000
+      internalID: 8194738419842639231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_68
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 719
+        width: 622
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd070c8c38a4686f0800000000000000
+      internalID: -682776363630825251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_69
+      rect:
+        serializedVersion: 2
+        x: 4329
+        y: 719
+        width: 652
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a759875185a18db70800000000000000
+      internalID: 8923911627254306170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_70
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 109
+        width: 292
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0a6d625e9ca5a80800000000000000
+      internalID: -8477241362535243559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_71
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 69
+        width: 292
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a6470d9fa4e6d80800000000000000
+      internalID: -8255578630118937969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_72
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 19
+        width: 252
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c107b18cc353ac0800000000000000
+      internalID: -3876125074130985964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_73
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 19
+        width: 322
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f4a65c0099654f0800000000000000
+      internalID: -840316051866890350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_74
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 19
+        width: 422
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33ee62abc7ab9ea0800000000000000
+      internalID: -5864909596674563267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_75
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 19
+        width: 322
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f1a4975fb2f7500800000000000000
+      internalID: 396083625533775669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_76
+      rect:
+        serializedVersion: 2
+        x: 2949
+        y: 19
+        width: 352
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d260a2429e5dddac0800000000000000
+      internalID: -3828668910884223443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_77
+      rect:
+        serializedVersion: 2
+        x: 3459
+        y: 19
+        width: 402
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda9391dc6e467550800000000000000
+      internalID: 6158195769755278047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_78
+      rect:
+        serializedVersion: 2
+        x: 3949
+        y: 19
+        width: 312
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2e7a93e47267db0800000000000000
+      internalID: -4794601536361078029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_79
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 19
+        width: 332
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cbe8a0bc5787f00800000000000000
+      internalID: 1114770422690135043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_80
+      rect:
+        serializedVersion: 2
+        x: 4869
+        y: 19
+        width: 352
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a81fb1d041e8c110800000000000000
+      internalID: 1281521762500024484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_81
+      rect:
+        serializedVersion: 2
+        x: 5309
+        y: 19
+        width: 402
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da148441d0a3f9d0800000000000000
+      internalID: -2741670927480382764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_82
+      rect:
+        serializedVersion: 2
+        x: 5889
+        y: 19
+        width: 382
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a22a2a4123d4eaa0800000000000000
+      internalID: -6132544652640116063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_83
+      rect:
+        serializedVersion: 2
+        x: 6469
+        y: 19
+        width: 382
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7222229b3b2558c10800000000000000
+      internalID: 2055139736823144999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_84
+      rect:
+        serializedVersion: 2
+        x: 6959
+        y: 19
+        width: 412
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe541e33acc56780800000000000000
+      internalID: -8690314904448246030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_85
+      rect:
+        serializedVersion: 2
+        x: 7369
+        y: 19
+        width: 602
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab12b82b3d50a3230800000000000000
+      internalID: 3619211657337315770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_86
+      rect:
+        serializedVersion: 2
+        x: 8079
+        y: 19
+        width: 382
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417155f86f7d37ab0800000000000000
+      internalID: -5011424506366585068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_87
+      rect:
+        serializedVersion: 2
+        x: 8549
+        y: 39
+        width: 312
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371111fa2a2d34610800000000000000
+      internalID: 1604357488437694835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_88
+      rect:
+        serializedVersion: 2
+        x: 8929
+        y: 129
+        width: 982
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b8f947e9e2e3c80800000000000000
+      internalID: -8341178201747256555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAMJESTAJ_89
+      rect:
+        serializedVersion: 2
+        x: 9239
+        y: 109
+        width: 342
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ce4672cb5bd3820800000000000000
+      internalID: 2899673554815872023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NAMJESTAJ_0: -1649642178209959026
+      NAMJESTAJ_1: -6220517854168267365
+      NAMJESTAJ_10: 4431098202545477469
+      NAMJESTAJ_11: -6983694745850810475
+      NAMJESTAJ_12: -4332805598004860479
+      NAMJESTAJ_13: 8749122518889684439
+      NAMJESTAJ_14: 9120406322161683267
+      NAMJESTAJ_15: 4511214300010889874
+      NAMJESTAJ_16: 6091401834665501252
+      NAMJESTAJ_17: -641026853959119980
+      NAMJESTAJ_18: 2373267351703683907
+      NAMJESTAJ_19: 2980462358928893028
+      NAMJESTAJ_2: 3678614309578844842
+      NAMJESTAJ_20: 5903699960883983151
+      NAMJESTAJ_21: 3040697087493811868
+      NAMJESTAJ_22: 7422489026012895900
+      NAMJESTAJ_23: 2427629895549090639
+      NAMJESTAJ_24: 123230757371229789
+      NAMJESTAJ_25: 6141918674196537282
+      NAMJESTAJ_26: -1096039757912015318
+      NAMJESTAJ_27: -7403329548030364897
+      NAMJESTAJ_28: -9193930973042409878
+      NAMJESTAJ_29: -8967181231826460682
+      NAMJESTAJ_3: -7884705792449430853
+      NAMJESTAJ_30: -5671380634638652212
+      NAMJESTAJ_31: -187873059668936372
+      NAMJESTAJ_32: 3020991075900837280
+      NAMJESTAJ_33: -3134510164645452841
+      NAMJESTAJ_34: 849316608929753564
+      NAMJESTAJ_35: -2192563504946752524
+      NAMJESTAJ_36: 3391782245045278279
+      NAMJESTAJ_37: 8703866941936704784
+      NAMJESTAJ_38: 3881101937816345673
+      NAMJESTAJ_39: 7444718148473443044
+      NAMJESTAJ_4: 4025705769668189371
+      NAMJESTAJ_40: 2101877801745577055
+      NAMJESTAJ_41: -2044003368750251564
+      NAMJESTAJ_42: 4505977416645898696
+      NAMJESTAJ_43: 3504560921002131919
+      NAMJESTAJ_44: 1670426270492667985
+      NAMJESTAJ_45: 4759613081991584339
+      NAMJESTAJ_46: -2068567509567834690
+      NAMJESTAJ_47: 7587194020878570907
+      NAMJESTAJ_48: 3635388736000763568
+      NAMJESTAJ_49: -7739478210808191902
+      NAMJESTAJ_5: -3958824902780875490
+      NAMJESTAJ_50: -8279416184976140998
+      NAMJESTAJ_51: 2428526492924836562
+      NAMJESTAJ_52: -6209751454583216751
+      NAMJESTAJ_53: -4436649589903943110
+      NAMJESTAJ_54: 5985948774192562573
+      NAMJESTAJ_55: 5390919824612478425
+      NAMJESTAJ_56: -850308202658373583
+      NAMJESTAJ_57: 1450569357992256305
+      NAMJESTAJ_58: -5606573774363926325
+      NAMJESTAJ_59: -2065124864324858288
+      NAMJESTAJ_6: -5881783962524165980
+      NAMJESTAJ_60: 2658373551841961224
+      NAMJESTAJ_61: 6205950639833129567
+      NAMJESTAJ_62: 1339154733225614270
+      NAMJESTAJ_63: -6055272082967634908
+      NAMJESTAJ_64: -3548344721819382671
+      NAMJESTAJ_65: 8008529312633418613
+      NAMJESTAJ_66: -361715533335046435
+      NAMJESTAJ_67: 8194738419842639231
+      NAMJESTAJ_68: -682776363630825251
+      NAMJESTAJ_69: 8923911627254306170
+      NAMJESTAJ_7: -1701190838370212083
+      NAMJESTAJ_70: -8477241362535243559
+      NAMJESTAJ_71: -8255578630118937969
+      NAMJESTAJ_72: -3876125074130985964
+      NAMJESTAJ_73: -840316051866890350
+      NAMJESTAJ_74: -5864909596674563267
+      NAMJESTAJ_75: 396083625533775669
+      NAMJESTAJ_76: -3828668910884223443
+      NAMJESTAJ_77: 6158195769755278047
+      NAMJESTAJ_78: -4794601536361078029
+      NAMJESTAJ_79: 1114770422690135043
+      NAMJESTAJ_8: 2839480216290262734
+      NAMJESTAJ_80: 1281521762500024484
+      NAMJESTAJ_81: -2741670927480382764
+      NAMJESTAJ_82: -6132544652640116063
+      NAMJESTAJ_83: 2055139736823144999
+      NAMJESTAJ_84: -8690314904448246030
+      NAMJESTAJ_85: 3619211657337315770
+      NAMJESTAJ_86: -5011424506366585068
+      NAMJESTAJ_87: 1604357488437694835
+      NAMJESTAJ_88: -8341178201747256555
+      NAMJESTAJ_89: 2899673554815872023
+      NAMJESTAJ_9: -5870785434958081664
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

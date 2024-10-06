@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  - Wall
+  - flying_ground
+  - Flying Ground
+  - leteci_point_desni
+  - leteci_point_lijevi
+  - Checkpoint
+  - Ladder
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - PauseUI
+  - Flying Ground
+  - Ground
+  - Wall
+  - Player
+  - Enemy
+  - Propuh
+  - Granata
+  - Ignore
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: -3
+    uniqueID: 3592804993
+    locked: 0
+  - name: -2
+    uniqueID: 2559241539
+    locked: 0
+  - name: -1
+    uniqueID: 525951281
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2674178473
+    locked: 0
+  - name: Foreground 1
+    uniqueID: 4060306889
+    locked: 0
+  - name: Foreground 2
+    uniqueID: 1621005891
+    locked: 0
+  - name: Osoba
+    uniqueID: 363912679
+    locked: 0
+  - name: Enemies
+    uniqueID: 3149912263
+    locked: 0
+  - name: Pickups
+    uniqueID: 3291641147
+    locked: 0
+  - name: Projectiles
+    uniqueID: 1596926965
+    locked: 0
+  - name: Player
+    uniqueID: 1252624425
+    locked: 0
+  - name: Ispred Player
+    uniqueID: 3767066167
+    locked: 0
+  - name: Ground
+    uniqueID: 2317030913
+    locked: 0

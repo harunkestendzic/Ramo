@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: e2ddc274746dcb94e94e6d4ab35dcb86
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5306158749389615245
+    second: pazisnajper1_0
+  - first:
+      213: 3980916747158871418
+    second: pazisnajper1_1
+  - first:
+      213: -3487862308196587536
+    second: pazisnajper1_2
+  - first:
+      213: 4882929465123093852
+    second: pazisnajper1_3
+  - first:
+      213: -3987913698290943413
+    second: pazisnajper1_4
+  - first:
+      213: 8441964039963482629
+    second: pazisnajper1_5
+  - first:
+      213: -8149264742410957898
+    second: pazisnajper1_6
+  - first:
+      213: 2520618899387463485
+    second: pazisnajper1_7
+  - first:
+      213: -3173444629036419379
+    second: pazisnajper1_8
+  - first:
+      213: 15610661535166677
+    second: pazisnajper1_9
+  - first:
+      213: 2206798919318231800
+    second: pazisnajper1_10
+  - first:
+      213: 7571066743173172192
+    second: pazisnajper1_11
+  - first:
+      213: -5597972690638527588
+    second: pazisnajper1_12
+  - first:
+      213: -6421264421153322133
+    second: pazisnajper1_13
+  - first:
+      213: -6087983706443184512
+    second: pazisnajper1_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pazisnajper1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1500
+        height: 960
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80f233f44343a940800000000000000
+      internalID: 5306158749389615245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pazisnajper1_1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 524
+        width: 332
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ddec290be0f3730800000000000000
+      internalID: 3980916747158871418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pazisnajper1_2
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 524
+        width: 212
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7e77ec5bf989fc0800000000000000
+      internalID: -3487862308196587536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pazisnajper1_3
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 509
+        width: 62
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d33f74a76a3c340800000000000000
+      internalID: 4882929465123093852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pazisnajper1_4
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 599
+        width: 47
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a347ace9518a8c0800000000000000
+      internalID: -3987913698290943413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pazisnajper1_5
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 569
+        width: 62
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a15a02191e72570800000000000000
+      internalID: 8441964039963482629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pazisnajper1_6
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 509
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbcaf7b4eef7ee80800000000000000
+      internalID: -8149264742410957898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pazisnajper1_7
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 509
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d373020c8890bf220800000000000000
+      internalID: 2520618899387463485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pazisnajper1_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 104
+        width: 137
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6b9eb6ce8a5f3d0800000000000000
+      internalID: -3173444629036419379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pazisnajper1_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 74
+        width: 182
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0338f50d5773000800000000000000
+      internalID: 15610661535166677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pazisnajper1_10
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 44
+        width: 197
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8faddacccef10ae10800000000000000
+      internalID: 2206798919318231800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pazisnajper1_11
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 59
+        width: 167
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb4c95f615d11960800000000000000
+      internalID: 7571066743173172192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pazisnajper1_12
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 59
+        width: 167
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9327284f710052b0800000000000000
+      internalID: -5597972690638527588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pazisnajper1_13
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 59
+        width: 167
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b4d40c70613e6a0800000000000000
+      internalID: -6421264421153322133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pazisnajper1_14
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 59
+        width: 182
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08686131313238ba0800000000000000
+      internalID: -6087983706443184512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a6d18adbbd26601418115cd62aa9bef3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pazisnajper1_0: 5306158749389615245
+      pazisnajper1_1: 3980916747158871418
+      pazisnajper1_10: 2206798919318231800
+      pazisnajper1_11: 7571066743173172192
+      pazisnajper1_12: -5597972690638527588
+      pazisnajper1_13: -6421264421153322133
+      pazisnajper1_14: -6087983706443184512
+      pazisnajper1_2: -3487862308196587536
+      pazisnajper1_3: 4882929465123093852
+      pazisnajper1_4: -3987913698290943413
+      pazisnajper1_5: 8441964039963482629
+      pazisnajper1_6: -8149264742410957898
+      pazisnajper1_7: 2520618899387463485
+      pazisnajper1_8: -3173444629036419379
+      pazisnajper1_9: 15610661535166677
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

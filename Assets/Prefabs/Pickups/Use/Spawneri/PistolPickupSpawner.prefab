@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6006236934152636657
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2950307176438146267}
+  - component: {fileID: 6718887840105147378}
+  m_Layer: 0
+  m_Name: PistolPickupSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2950307176438146267
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6006236934152636657}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4741708447763288142}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6718887840105147378
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6006236934152636657}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a19479f89b09c34c9b8932fdc028caf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objectsToSpawn:
+  - {fileID: 3623645494460916115, guid: df92e4bb165938c4cb4109ee1a2d7cf2, type: 3}
+  minDelay: 10
+  maxDelay: 20
+--- !u!1001 &5715932220340876061
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2950307176438146267}
+    m_Modifications:
+    - target: {fileID: 1053557144571798355, guid: df92e4bb165938c4cb4109ee1a2d7cf2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1053557144571798355, guid: df92e4bb165938c4cb4109ee1a2d7cf2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1053557144571798355, guid: df92e4bb165938c4cb4109ee1a2d7cf2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1053557144571798355, guid: df92e4bb165938c4cb4109ee1a2d7cf2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1053557144571798355, guid: df92e4bb165938c4cb4109ee1a2d7cf2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1053557144571798355, guid: df92e4bb165938c4cb4109ee1a2d7cf2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1053557144571798355, guid: df92e4bb165938c4cb4109ee1a2d7cf2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1053557144571798355, guid: df92e4bb165938c4cb4109ee1a2d7cf2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1053557144571798355, guid: df92e4bb165938c4cb4109ee1a2d7cf2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1053557144571798355, guid: df92e4bb165938c4cb4109ee1a2d7cf2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3623645494460916115, guid: df92e4bb165938c4cb4109ee1a2d7cf2, type: 3}
+      propertyPath: m_Name
+      value: PistoljPickupParent
+      objectReference: {fileID: 0}
+    - target: {fileID: 5233358352744619300, guid: df92e4bb165938c4cb4109ee1a2d7cf2, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: df92e4bb165938c4cb4109ee1a2d7cf2, type: 3}
+--- !u!4 &4741708447763288142 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1053557144571798355, guid: df92e4bb165938c4cb4109ee1a2d7cf2, type: 3}
+  m_PrefabInstance: {fileID: 5715932220340876061}
+  m_PrefabAsset: {fileID: 0}
