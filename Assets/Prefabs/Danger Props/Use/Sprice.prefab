@@ -231,7 +231,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8937589135914611368}
   - component: {fileID: 3405106301818956228}
-  - component: {fileID: 5756297351077335895}
+  - component: {fileID: 3657705093966787754}
   m_Layer: 0
   m_Name: Sprice
   m_TagString: Untagged
@@ -277,7 +277,7 @@ MonoBehaviour:
     m_Bits: 1024
   range: 1
   colliderDistance: 0
---- !u!61 &5756297351077335895
+--- !u!61 &3657705093966787754
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -293,7 +293,7 @@ BoxCollider2D:
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 2048
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2
@@ -307,11 +307,11 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.0320282, y: 0.1665318}
+  m_Offset: {x: 0.0038146973, y: 0.030503035}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -321,7 +321,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1.7045593, y: 0.6669364}
+  m_Size: {x: 1.6253052, y: 0.37468767}
   m_EdgeRadius: 0
 --- !u!1 &6971692381889098615
 GameObject:
@@ -348,13 +348,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6971692381889098615}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: 0.94334775, w: -0.33180577}
-  m_LocalPosition: {x: -0.29075623, y: 0.027893543, z: -0.0033024233}
+  m_LocalRotation: {x: -0, y: -0, z: 0.79167515, w: -0.61094236}
+  m_LocalPosition: {x: -0.239, y: 0.036, z: -0.0033024233}
   m_LocalScale: {x: 0.1, y: 0.1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8937589135914611368}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -141.243}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -104.685}
 --- !u!212 &618050208957061965
 SpriteRenderer:
   m_ObjectHideFlags: 0

@@ -43,7 +43,7 @@ public class Projectile : MonoBehaviour
         anim.SetTrigger("explode");
 
         if(collision.tag == "Enemy" || collision.tag == "Boss" )
-            collision.GetComponent<Health>().TakeDamage(1);
+            collision.GetComponent<Health>().TakeDamage(1.5f);
 
     }
 
